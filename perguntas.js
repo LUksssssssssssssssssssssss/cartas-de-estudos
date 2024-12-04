@@ -1,71 +1,71 @@
 criaCartao(
-   'Programação',
-   'O que é Python?',
-   'O Python é uma linguagem de programação'
+   'eletronica',
+   'O que é um resistor?',
+   'O resistor é um componente eletronico que serve para limitar a passagem de corrente em um circuito'
 )
 
  criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'eletronica',
+    'O que é arduino?',
+    'arduino é um micro contolador simples que é usado como cerebro de projetos, e realiza tarefas apartir de programação'
  )
 
  criaCartao(
     'Programação',
-    'O que é JavaScript?',
-    'O JavaScript é uma linguagem de programação'
+    'O que é c++?',
+    'O C++ é uma linguagem de programação'
  )
 
  criaCartao(
-   'Lingua Estrangeira',
-   'Como se diz estou com fome em Italiano?',
-   'Estou com fome em italiano é Ho fame'
+   'futebol',
+   'quem é o jogador com mais copas do mundo conquistadas',
+   'edison arantes do nascimento, mais conhecido como pelé'
 )
 
 criaCartao(
-   'Lingua Estrangeira',
-   'Como se diz qual seu nome em Francês?',
-   'Qual seu nome em Francês e quel est ton nom'
+   'futebol',
+   'quem ganhou a copa de 1966?',
+   'foi a inglaterra, tambem foi o unico titulo da inglaterra em copas do mundo'
 )
 
 criaCartao(
-   'Lingua Estrangeira',
-   'Como se diz oi em Inglês?',
-   'Oi em Inglês é Hi (RAI)'
+   'basquete',
+   'qual é o nome da principal liga de basquete do mundo?',
+   'é a NBA'
+)
+
+criaCartao(
+   'basquete',
+   'que equipe ganhou o titulo da NBA no ano de 1998',
+   'Foi o chicago bulls'
+)
+
+criaCartao(
+   'volei',
+   'melhor jogador de volei de todos os tempos?',
+   'certamente é o giba'
 )
 
 criaCartao(
    'Geografia',
-   'Qual a capital da França?',
-   'A capital da França é Paris'
-)
-
-criaCartao(
-   'Geografia',
-   'Qual a capital do Japão?',
-   'A capital do Japão é Tóquio'
-)
-
-criaCartao(
-   'Geografia',
-   'Qual a capital da Austrália?',
-   'A capital da Austrália é Canberra '
+   'Qual a capital do Brasil?',
+   'é brasilia '
 )
 
 criaCartao(
    'Matemática',
-   'Qual a raiz quadrada de 144',
-   'A raiz quadrada de 144 é 12'
+   'Qual a raiz quadrada de 4',
+   'A raiz quadrada de 4 é 2'
 )
 
 criaCartao(
-   'Matemática',
-   'Quanto é 250x460?',
-   '115,000'
+   'geografia',
+   'o que tem areia e agua?',
+   'praia'
 )
 
 criaCartao(
-   'Matemática',
-   'O que é um número primo?',
-   'Um número primo é um número natural que é maior que 1 e possui apenas dois divisores: 1 e ele próprio. Por exemplo, 2, 3, 5, 7, 11 são números primos.'
+   'conhecimento geral',
+   'quem é o moleque sagaz?',
+   'é o Garrido né'
 )
